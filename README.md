@@ -1,10 +1,10 @@
 # Colin Kelly
 
-> Launching [**Daybreak**](https://daybreaksec.com) 🌅. Fractional security engineer.
+> Building [**Daybreak**](https://daybreaksec.com) 🌅. Fractional security engineer.
 
 I help blockchain protocols catch the bugs that surface in production, before they do. Focus is **Solana**, **CosmWasm**, and **Cosmos SDK**, but the work spans the full stack: x/\* module upgrades and consensus changes, AMMs and vaults, account abstraction, EVM precompiles, whitepaper reviews, and architectural assessments before a line of code is written.
 
-**Track record.** 121+ engagements through [Oak Security](https://oaksecurity.io) and [SCV Security](https://scv.services) since 2021. 
+**Audit History** 121+ engagements through [Oak Security](https://oaksecurity.io) and [SCV Security](https://scv.services) since 2021. 
 
 **Reports** → [`cfkelly18/public-audits`](https://github.com/cfkelly18/public-audits)
 
@@ -27,4 +27,8 @@ Authored hundreds of security policies for Falcon Horizon (CSPM). Major initiati
  
 **Security Consultant** · Security Risk Advisors &nbsp;·&nbsp; 
 Purple teaming engagements for Fortune 500 clients. SOC analyst across Splunk, QRadar, Falcon, Carbon Black, SentinelOne, and Phantom.
+
+
+## Projects
+[**vert-tools.com**](https://vert-tools.com) — Restore the elevation gain Strava strips from indoor treadmill workouts; drop a `.fit`/`.tcx`/`.gpx` in, get a Strava-ready file out. Written in Rust, compiled to WASM, runs entirely in the browser.
  
