@@ -6,13 +6,13 @@ Security @ Anza
 
 **Reports** → [`cfkelly18/public-audits`](https://github.com/cfkelly18/public-audits)
 
-🎥 [YouTube](https://www.youtube.com/@ContractHacker) — 16.5k subs · 1M+ lifetime views - Helping people break into Cyber Security and get their first job.
-
 💼 [LinkedIn](https://www.linkedin.com/in/colin-f-kelly/)
 
-**Reach me.** [daybreaksec.com](https://daybreaksec.com) · X: [@contracthaxor](https://x.com/contracthaxor) · Telegram: [@contracthaxor](https://t.me/contracthaxor)
+**Reach me.** X: [@contracthaxor](https://x.com/contracthaxor) · Telegram: [@contracthaxor](https://t.me/contracthaxor)
 
 ## Experience
+
+Current: Security Engineer @ Anza
 
 **Security Researcher** · Range &nbsp;·&nbsp; 
 R&D team building on-chain detection tooling across Solana, Cosmos SDK, and CosmWasm. Authored custom observability rules using the Range SDK.
